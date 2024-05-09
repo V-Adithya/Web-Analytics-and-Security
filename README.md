@@ -31,12 +31,4 @@ git clone <repository-url>
 
 5. Test your web analytics applications locally to ensure they function correctly and provide meaningful insights from the analyzed data.
 
-6. Once satisfied with your implementations, you can deploy your web analytics solutions to production environments for real-world usage and impact.
-
-## Contributing
-
-Contributions to this repository are welcome. If you have improvements, bug fixes, or additional resources related to web analytics and intelligence, feel free to fork the repository and submit a pull request with your changes.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the contents of this repository for personal or commercial purposes.
+6. Once satisfied with your implementations, you can deploy your web analytics solutions to production environments for real-world usage and impact
